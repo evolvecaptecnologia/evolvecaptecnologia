@@ -1,6 +1,8 @@
 # Evolve Tecnologia
 
-![Evolve Tecnologia](assets/img/logo_evolve512x512.png)
+<p align="center"></p>
+  <img src="assets/img/logo_200x200.png" alt="Evolve Tecnologia" />
+</p>
 
 **Soluções robustas para negócios que exigem tecnologia, escala e inovação.**
 
