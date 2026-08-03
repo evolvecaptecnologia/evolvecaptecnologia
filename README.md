@@ -1,5 +1,7 @@
 # Evolve Tecnologia
 
+![Evolve Tecnologia](assets/img/logo_evolve512x512.png)
+
 **Soluções robustas para negócios que exigem tecnologia, escala e inovação.**
 
 [![Website](https://img.shields.io/badge/Website-evolvecap.com.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evolvecap.com.br/)
@@ -46,6 +48,7 @@ Nosso trabalho combina:
 ## Especialidades
 
 ### Engenharia de Software
+
 - Arquitetura de software
 - Desenvolvimento backend
 - Desenvolvimento frontend
@@ -54,6 +57,7 @@ Nosso trabalho combina:
 - Modelagem e evolução de sistemas
 
 ### Soluções de Negócio
+
 - ERP
 - SaaS
 - plataformas transacionais
@@ -62,6 +66,7 @@ Nosso trabalho combina:
 - produtos digitais corporativos
 
 ### Inovação e Inteligência Artificial
+
 - integração com serviços de IA
 - pipelines inteligentes
 - busca contextual com RAG
@@ -73,6 +78,7 @@ Nosso trabalho combina:
 ## Stack principal
 
 ### Backend
+
 - Node.js
 - PHP
 - Laravel
@@ -80,15 +86,18 @@ Nosso trabalho combina:
 - Go
 
 ### Frontend
+
 - Vue.js
 - JavaScript
 - TypeScript
 
 ### Mobile
+
 - Flutter
 - Dart
 
 ### Integrações e Arquitetura
+
 - APIs REST
 - autenticação e segurança
 - integrações entre sistemas
@@ -97,6 +106,7 @@ Nosso trabalho combina:
 - mensageria e processamento assíncrono
 
 ### Inteligência Artificial
+
 - integrações com modelos de IA
 - RAG
 - enriquecimento de contexto
